@@ -1,0 +1,13 @@
+/*stile del div con ID blocco*/
+.blocco
+{
+	width:30%;							/*larghezza impostata in %, cambia in base alla risoluzione*/
+	background-color: lightgray;		/*impostato colore di sfondo a lightgray*/
+	color: green;						/*colore del testo impostato a verde*/
+	float:left;							/*l’elemento viene spostato sul lato sinistro del box contenitore*/
+	height:60px;						/*altezza dell'elemento*/
+	border:dotted 2px black;			/*bordo tratteggiato mediante dotted, spessore del bordo 2px di colore nero*/
+	font-size:36px;
+	padding:10px;
+	margin-right:10px;					/*distanza esterna del blocco*/
+}
