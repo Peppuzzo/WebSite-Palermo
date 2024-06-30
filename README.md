@@ -51,9 +51,9 @@ La `Spiaggia di Mondello` è una delle destinazioni balneari più popolari di Pa
 
 ## 📌 Contatti
 
-Se vuoi saperne di più su Palermo, contribuisci al progetto o hai domande, non esitare a contattarci!
+Se vuoi saperne di più su Palermo, o hai domande, non esitare a contattarmi!
 
-📧 Email: info@palermo-history.com  
+📧 Email: giuseppe.43g@libero.it 
 🌐 Sito web: [Palermo History][(https://en.wikipedia.org/wiki/History_of_Palermo)]
 
 ---
